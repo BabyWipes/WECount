@@ -1,0 +1,4 @@
+name: WECount
+main: code.husky.WECount
+version: 1.0
+commands:
